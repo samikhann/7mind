@@ -44,8 +44,8 @@ public class Test {
 //        WebElement login=driver.findElement(By.xpath("//button[text()='Sign in']"));
         
 
-		username.sendKeys("samirahimi18@gmail.com");
-		password.sendKeys("Meenakhann12@");
+		username.sendKeys("EMAIL");
+		password.sendKeys("PASSWORD");
 		login.click();
         
 //        driver.close();
